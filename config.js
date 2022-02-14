@@ -17,7 +17,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
-  'https://api.neoxr.eu.org/': 'yntkts',
+  'https://api.neoxr.eu.org/': '566l0wk8FG',
   'https://pencarikode.xyz': 'APIKEY',
   'https://api.xteam.xyz': 'HIRO',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
